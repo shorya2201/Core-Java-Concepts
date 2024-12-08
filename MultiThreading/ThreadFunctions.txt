@@ -1,0 +1,5 @@
+1. start() = This function is the starting point of thread execution. 
+We have to call the start() method in our program , if we directly call the run() method 
+then, our program will work as single threaded program.
+2. run() = Everything we need to execute by the thread we write that in the run() method.
+3. 

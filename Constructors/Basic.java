@@ -11,7 +11,6 @@
 //Constructor is called at the time of object creation.
 //Main purpose is to initialize instance variable.
 //If you want that some code should be initialized at the time of object creation itself then we write that code under a Constructor of that class.
-//9516502352
 package Constructors;
 
 class Student {
